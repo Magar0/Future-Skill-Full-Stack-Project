@@ -53,6 +53,8 @@ npm start
 
 ## API Endpoints
 
+backend live url: https://future-skill-full-stack-project.vercel.app/
+
 | Endpoint | Description | Method | Request Body | Response Format (Example) |
 |----------|-------------|--------|--------------|----------------------------|
 | `/` | Welcome message | GET | None | JSON (message: string) |
